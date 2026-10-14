@@ -1,0 +1,8 @@
+interface:
+  display_name: "Pretty Up 资源需求"
+  short_description: "把视觉参考转成可派单、可验收的资源需求"
+  default_prompt: "Use $prettyup-resource-prd to analyze these references and draft a Pretty Up art-resource requirement with naming options."
+
+policy:
+  allow_implicit_invocation: true
+
