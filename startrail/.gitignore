@@ -1,0 +1,11 @@
+node_modules/
+data/
+startrail.local.json
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+eval/last-report.json
+.DS_Store
+playwright-report/
+test-results/
