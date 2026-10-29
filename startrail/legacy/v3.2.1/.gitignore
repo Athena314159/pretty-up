@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+*.tmp
+*~
+*.swp
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# 大图媒体不入库。台账 json / json.gz 仍提交。换设备需另行携带这些文件。
+library/**/*.webp
+library/**/*.jpg
+library/**/*.jpeg
+library/**/*.png
+library/**/*.gif
+library/**/*.mp4
+library/**/*.mov

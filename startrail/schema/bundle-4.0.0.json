@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://startrail.local/schema/bundle-4.0.0.json",
+  "title": "星迹资料包",
+  "type": "object",
+  "required": ["schema", "schema_version", "task", "items"],
+  "properties": {
+    "schema": { "const": "startrail.bundle" },
+    "schema_version": { "const": "4.0.0" },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url", "quotes", "images"],
+        "properties": {
+          "url": { "type": "string" },
+          "published_at": { "type": ["string", "null"] },
+          "captured_at": { "type": ["string", "null"] },
+          "quotes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["text", "source_url"],
+              "properties": {
+                "text": { "type": "string" },
+                "source_url": { "type": "string" },
+                "published_at": { "type": ["string", "null"] }
+              }
+            }
+          },
+          "images": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["path", "source_url"],
+              "properties": {
+                "path": { "type": "string" },
+                "source_url": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

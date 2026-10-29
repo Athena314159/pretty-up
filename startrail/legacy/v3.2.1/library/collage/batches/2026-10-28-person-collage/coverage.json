@@ -1,0 +1,59 @@
+{
+  "target": 50,
+  "delivered": 50,
+  "platforms": {
+    "小红书": 10,
+    "Lemon8": 40
+  },
+  "regions": {
+    "中国": 8,
+    "澳大利亚": 2,
+    "美国": 4,
+    "泰语市场": 2,
+    "未知": 34
+  },
+  "region_note": "国家场景证据和内容语言市场分开标注；作者国籍未知不推断",
+  "searches": [
+    {
+      "id": "20261028-xhs-person",
+      "resource_category": "collage",
+      "platform": "小红书",
+      "query": "人像拼贴",
+      "market": "中文",
+      "batch_id": "2026-10-28-person-collage",
+      "updated_at": "2026-10-28T09:40:11.942Z"
+    },
+    {
+      "id": "20261028-xhs-journal",
+      "resource_category": "collage",
+      "platform": "小红书",
+      "query": "人物 电子手帐 拼贴",
+      "market": "中文",
+      "batch_id": "2026-10-28-person-collage",
+      "updated_at": "2026-10-28T09:40:11.942Z"
+    },
+    {
+      "id": "20261028-lemon-en",
+      "resource_category": "collage",
+      "platform": "Lemon8",
+      "query": "creative photo collage and original scrapbook posts",
+      "market": "英语",
+      "batch_id": "2026-10-28-person-collage",
+      "updated_at": "2026-10-28T09:40:11.942Z"
+    },
+    {
+      "id": "20261028-lemon-th",
+      "resource_category": "collage",
+      "platform": "Lemon8",
+      "query": "แต่งรูป คอลลาจ",
+      "market": "泰语",
+      "batch_id": "2026-10-28-person-collage",
+      "updated_at": "2026-10-28T09:40:11.942Z"
+    }
+  ],
+  "limits": [
+    "未将地区入口参数当作所在地",
+    "旧作品常青参考，不能证明近期上升",
+    "历史候选未留图部分存在款式识别盲区"
+  ]
+}

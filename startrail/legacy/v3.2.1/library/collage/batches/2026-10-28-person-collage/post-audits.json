@@ -1,0 +1,1637 @@
+[
+  {
+    "id": "6aa7ff16000000002a027e24",
+    "platform": "小红书",
+    "title": "韩女ins感拼贴图🩵",
+    "author": "崔Rachel",
+    "url": "https://www.xiaohongshu.com/explore/6aa7ff16000000002a027e24",
+    "date": "2026-09-15",
+    "region": "澳大利亚",
+    "region_evidence": "正文Fitzroy VIC3065探店地点；作者评论IP澳大利亚",
+    "body": "继续给照片加入一些有sense的点；周末去Fitzroy吃Masses Bagels，5 Smith St, Fitzroy VIC3065。",
+    "likes": 275,
+    "saves": 105,
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:03:06.802Z",
+    "total_media": 6,
+    "reviewed_count": 6,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/6aa7ff16000000002a027e24/1.webp",
+        "sha256": "a5f6e750f32dd373dd32543bd61e2883541f008715dc503ce6696a56a43a1dac",
+        "status": "candidate",
+        "reason": "椭圆驾驶人像嵌入左上；emoji标注",
+        "features": {
+          "slots": "2: full bleed + upper left oval",
+          "hierarchy": "large seated woman; small driver portrait",
+          "crop": "oval inset",
+          "overlap": "upper left inset over main",
+          "decoration": "emoji annotation"
+        }
+      },
+      {
+        "media_index": 2,
+        "file": "media/6aa7ff16000000002a027e24/2.webp",
+        "sha256": "13ae99c707ae32fb1329492ee7f4278e3f5df25c0402d4a616fe8cff1f7ebcd7",
+        "status": "blacklist",
+        "reason": "无装饰三横条基础拼接",
+        "features": null
+      },
+      {
+        "media_index": 3,
+        "file": "media/6aa7ff16000000002a027e24/3.webp",
+        "sha256": "3634a75849d73cd651461935b99c284fb869ea9e081405abf116b8ace5180d22",
+        "status": "excluded-similar",
+        "reason": "普通错位矩形插图，与历史NEW-XHS-01构图近似，不交付",
+        "features": null
+      },
+      {
+        "media_index": 4,
+        "file": "media/6aa7ff16000000002a027e24/4.webp",
+        "sha256": "352746ec5672053af4a14c0e7f5743d7336bf3ded6da856d0297abbc67123e9d",
+        "status": "blacklist",
+        "reason": "无装饰三横条基础拼接",
+        "features": null
+      },
+      {
+        "media_index": 5,
+        "file": "media/6aa7ff16000000002a027e24/5.webp",
+        "sha256": "9eb7d0e98e902d92a2d91db7322797071d2d19bc96f7df37bb72de5e0b1b1d6e",
+        "status": "candidate",
+        "reason": "星形嵌图与横条共同嵌入人物主图",
+        "features": {
+          "slots": "3: full bleed + upper left star + narrow landscape",
+          "hierarchy": "large standing woman",
+          "crop": "star and strip",
+          "overlap": "two upper insets",
+          "decoration": "star shaped image mask"
+        }
+      },
+      {
+        "media_index": 6,
+        "file": "media/6aa7ff16000000002a027e24/6.webp",
+        "sha256": "0b1e8b2d3422fa9757ff3287789b94042b72df9ffc922a7a046480db00872b32",
+        "status": "excluded-similar",
+        "reason": "普通错位矩形插图，与历史NEW-XHS-01近似，不交付",
+        "features": null
+      }
+    ]
+  },
+  {
+    "id": "6aa4cf080000000012000ffa",
+    "platform": "小红书",
+    "title": "韩系拼图灵感分享🧩",
+    "author": "Puchiii",
+    "url": "https://www.xiaohongshu.com/explore/6aa4cf080000000012000ffa",
+    "date": "2026-09-18",
+    "region": "未知",
+    "source_status": "secondary-collection",
+    "body": "作者简介明确图源网络IG Pinterest。",
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:03:06.833Z",
+    "total_media": 10,
+    "reviewed_count": 10,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/6aa4cf080000000012000ffa/1.webp",
+        "sha256": "1f8e1bff3da178279aff19de31f45b32e0723cd53d6a5ebeb104dc11a3043c55",
+        "status": "lead",
+        "reason": "转载合集，原作者需追溯；不计入本批",
+        "features": null
+      },
+      {
+        "media_index": 2,
+        "file": "media/6aa4cf080000000012000ffa/2.webp",
+        "sha256": "88c561e53501f89dc912b3b83a1b32fd1826a90d64e07f9c5d4d658a9aa6a264",
+        "status": "lead",
+        "reason": "转载合集，原作者需追溯；不计入本批",
+        "features": null
+      },
+      {
+        "media_index": 3,
+        "file": "media/6aa4cf080000000012000ffa/3.webp",
+        "sha256": "1e10948bef645d052959f427cb8410e99293c140d339b3d8402832e090dbc3ca",
+        "status": "lead",
+        "reason": "转载合集，原作者需追溯；不计入本批",
+        "features": null
+      },
+      {
+        "media_index": 4,
+        "file": "media/6aa4cf080000000012000ffa/4.webp",
+        "sha256": "98ca0e018e988e14ce7c58d08bd86a08582c94ef3ffa633ed33e1a410e8b8b97",
+        "status": "lead",
+        "reason": "转载合集，原作者需追溯；不计入本批",
+        "features": null
+      },
+      {
+        "media_index": 5,
+        "file": "media/6aa4cf080000000012000ffa/5.webp",
+        "sha256": "d9ddf7b46111257e9291f3fc842b123a20ff15853330dad09ec1cd2c467af316",
+        "status": "lead",
+        "reason": "转载合集，原作者需追溯；不计入本批",
+        "features": null
+      },
+      {
+        "media_index": 6,
+        "file": "media/6aa4cf080000000012000ffa/6.webp",
+        "sha256": "b25ac16bc9749d148730fff4bc9cb4722493b3c901df8a0d3e009a63d1e03c09",
+        "status": "lead",
+        "reason": "转载合集，原作者需追溯；不计入本批",
+        "features": null
+      },
+      {
+        "media_index": 7,
+        "file": "media/6aa4cf080000000012000ffa/7.webp",
+        "sha256": "b49aaddbbf393784ec514c98b769435e8ef37fe18a86c5406775ea6ec48dbe7a",
+        "status": "lead",
+        "reason": "转载合集，原作者需追溯；不计入本批",
+        "features": null
+      },
+      {
+        "media_index": 8,
+        "file": "media/6aa4cf080000000012000ffa/8.webp",
+        "sha256": "309a625e36a3e4c10c7fcdf7d682e74bc0e5f9012368f27c7160f17572cefae8",
+        "status": "lead",
+        "reason": "转载合集，原作者需追溯；不计入本批",
+        "features": null
+      },
+      {
+        "media_index": 9,
+        "file": "media/6aa4cf080000000012000ffa/9.webp",
+        "sha256": "e4bf2b98b6a60101677913e28d09fb090ebc9e3e92bb6cae9e5f74c7be73f4c7",
+        "status": "lead",
+        "reason": "转载合集，原作者需追溯；不计入本批",
+        "features": null
+      },
+      {
+        "media_index": 10,
+        "file": "media/6aa4cf080000000012000ffa/10.webp",
+        "sha256": "1080687d3fddfc79117225e2a5041e045c65879b845058fed114521a777e3b22",
+        "status": "lead",
+        "reason": "转载合集，原作者需追溯；不计入本批",
+        "features": null
+      }
+    ]
+  },
+  {
+    "id": "6a1d5aff0000000008030d53",
+    "platform": "小红书",
+    "title": "新的po图方式 Outfit & Plans",
+    "author": "李多彩耶",
+    "url": "https://www.xiaohongshu.com/explore/6a1d5aff0000000008030d53",
+    "date": "2026-06-01",
+    "region": "未知",
+    "body": "美美展示穿搭+场景",
+    "source_status": "authorship-unconfirmed",
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:03:06.866Z",
+    "total_media": 8,
+    "reviewed_count": 8,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/6a1d5aff0000000008030d53/1.webp",
+        "sha256": "ecac531d39290d4e02bfa3945c1739bc96ff36ce1101a7b21e71cbb2133ea27c",
+        "status": "lead",
+        "reason": "穿搭与场景上下双图，同一款式换照片；原始作者未确认，不计数",
+        "features": null
+      },
+      {
+        "media_index": 2,
+        "file": "media/6a1d5aff0000000008030d53/2.webp",
+        "sha256": "a296c90dace1c7b0a512af6aa62b8533a511d8e64d33a3d0e20c08496f554a0f",
+        "status": "lead",
+        "reason": "穿搭与场景上下双图，同一款式换照片；原始作者未确认，不计数",
+        "features": null
+      },
+      {
+        "media_index": 3,
+        "file": "media/6a1d5aff0000000008030d53/3.webp",
+        "sha256": "d69eb1d1d675180d6ebdd6293e37991726b672d26ae26e0c0513837d53e477a0",
+        "status": "lead",
+        "reason": "穿搭与场景上下双图，同一款式换照片；原始作者未确认，不计数",
+        "features": null
+      },
+      {
+        "media_index": 4,
+        "file": "media/6a1d5aff0000000008030d53/4.webp",
+        "sha256": "d4c607dd9fb0ea74763ecf7d3de01dc7c5ada072b86186b8d48aef6355531a87",
+        "status": "lead",
+        "reason": "穿搭与场景上下双图，同一款式换照片；原始作者未确认，不计数",
+        "features": null
+      },
+      {
+        "media_index": 5,
+        "file": "media/6a1d5aff0000000008030d53/5.webp",
+        "sha256": "22fbb0fc51a496af816e950d0606ef87f28e0a2a46bfee901f516b5c8f464f78",
+        "status": "lead",
+        "reason": "穿搭与场景上下双图，同一款式换照片；原始作者未确认，不计数",
+        "features": null
+      },
+      {
+        "media_index": 6,
+        "file": "media/6a1d5aff0000000008030d53/6.webp",
+        "sha256": "48b4959d28637bdf9c4e915a21aeccc7bebb1d9ee7808761357b80989a9a833b",
+        "status": "lead",
+        "reason": "穿搭与场景上下双图，同一款式换照片；原始作者未确认，不计数",
+        "features": null
+      },
+      {
+        "media_index": 7,
+        "file": "media/6a1d5aff0000000008030d53/7.webp",
+        "sha256": "1c46c153267ad0efac4866acb1a557edc598e47462212370be1729be64177543",
+        "status": "lead",
+        "reason": "穿搭与场景上下双图，同一款式换照片；原始作者未确认，不计数",
+        "features": null
+      },
+      {
+        "media_index": 8,
+        "file": "media/6a1d5aff0000000008030d53/8.webp",
+        "sha256": "5fc4274f885e86b3c44219a05137947b2a4d943b2e2c7f432001d728b82f4995",
+        "status": "lead",
+        "reason": "穿搭与场景上下双图，同一款式换照片；原始作者未确认，不计数",
+        "features": null
+      }
+    ]
+  },
+  {
+    "id": "7458499184245604906",
+    "platform": "Lemon8",
+    "title": "Instagram scrapbook collage inspiration",
+    "author": "AkyraLayne",
+    "url": "https://www.lemon8-app.com/@akyralayne/7458499184245604906",
+    "date": "2025-01-11",
+    "age_label": "常青参考，非近期趋势",
+    "region": "未知",
+    "body": "One of my monthly scrapbook posts - this was actually my yearly dump !",
+    "likes": 3,
+    "saves": 3,
+    "ui_counter_note": "页面1/9；实际图册8个图片项，另有You may also like推荐页。",
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:04:01.240Z",
+    "total_media": 8,
+    "reviewed_count": 8,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/7458499184245604906/1.webp",
+        "sha256": "7aca6f57d47a8f4c480e932412077434c73e260a0620cfc0321abeb5ff2ecb7f",
+        "status": "candidate",
+        "reason": "电视节目目录式人物照片墙",
+        "features": {
+          "slots": "9 thumbnails in 3 themed rows",
+          "hierarchy": "white category headers on black",
+          "crop": "upright rectangles",
+          "overlap": "nonoverlap table",
+          "decoration": "TV recommendation typography"
+        }
+      },
+      {
+        "media_index": 2,
+        "file": "media/7458499184245604906/2.webp",
+        "sha256": "ddebdb61668f2b7618ac288b2243775bcba40dda4410d26861a3a46c587263f8",
+        "status": "candidate",
+        "reason": "冰箱门实体背景配多张磁贴照片",
+        "features": {
+          "slots": "many mini prints around double fridge doors",
+          "hierarchy": "fridge scene and large Eiffel inset",
+          "crop": "rectangles with narrow borders",
+          "overlap": "photos mounted over fridge",
+          "decoration": "magnets and invitation cards"
+        }
+      },
+      {
+        "media_index": 3,
+        "file": "media/7458499184245604906/3.webp",
+        "sha256": "2038507e62c1c753f2eccbbe7041cc118c9fefbb0c6871bf968b5e689eeeccea",
+        "status": "candidate",
+        "reason": "黑白群像底图+上方两块旅行与人像拼片",
+        "features": {
+          "slots": "3 plus small figure inset",
+          "hierarchy": "large lower group with small top panels",
+          "crop": "rectangles and group cutout",
+          "overlap": "crowd inset across top seam",
+          "decoration": "yellow flowers and crown doodles"
+        }
+      },
+      {
+        "media_index": 4,
+        "file": "media/7458499184245604906/4.webp",
+        "sha256": "36ba963e27fc69e9441383aab87d5992ff374e6b674c389ecb9d8a190cb81ff6",
+        "status": "candidate",
+        "reason": "车内背影底图配上方群像、下方抠图簇",
+        "features": {
+          "slots": "3 panels plus two person cutouts",
+          "hierarchy": "large car background",
+          "crop": "rectangles and contour cutouts",
+          "overlap": "cutout group at bottom",
+          "decoration": "bird flowers spiral doodles"
+        }
+      },
+      {
+        "media_index": 5,
+        "file": "media/7458499184245604906/5.webp",
+        "sha256": "54dee34f7a31d712e3157ea8407dfbd674bd7dee8f0684df917cf87acef5c34d",
+        "status": "candidate",
+        "reason": "微笑人像底图配胶片条、宠物与聚会",
+        "features": {
+          "slots": "4 unequal panels plus bottom group cutout",
+          "hierarchy": "large blurred face at left",
+          "crop": "film frame rectangular and contour",
+          "overlap": "party strip and people across bottom",
+          "decoration": "heart and white cross doodles"
+        }
+      },
+      {
+        "media_index": 6,
+        "file": "media/7458499184245604906/6.webp",
+        "sha256": "4d39c4b113e86572e40336f739fa8509484425d6944dd53396f28f215c128c73",
+        "status": "candidate",
+        "reason": "黑白照片错格加人物贴纸簇",
+        "features": {
+          "slots": "5 unequal panels and foreground cutout group",
+          "hierarchy": "central four women photo",
+          "crop": "rectangular plus bottom contour cluster",
+          "overlap": "cutouts cross bottom edge",
+          "decoration": "camera eyes doodle"
+        }
+      },
+      {
+        "media_index": 7,
+        "file": "media/7458499184245604906/7.webp",
+        "sha256": "c9499d830ca01d6305563407122f81c40455434b8000b324d7957afb602b23c5",
+        "status": "candidate",
+        "reason": "婚礼背影底图+两侧粉框照片链",
+        "features": {
+          "slots": "8 small pink frames around large bride background",
+          "hierarchy": "large bridal hair and back",
+          "crop": "polaroid strips and paired square frames",
+          "overlap": "small framed photos on sides",
+          "decoration": "pink heart and wedding note"
+        }
+      },
+      {
+        "media_index": 8,
+        "file": "media/7458499184245604906/8.webp",
+        "sha256": "11ed0bec88c6a68a948ce61bbd1c0d96154fcb715caeec946f01a081522443f2",
+        "status": "reserve",
+        "reason": "黑白双人照3x2带表情涂鸦；本批已有足够案例，作为备选不计数",
+        "features": {
+          "slots": "6 rectangles in 2 columns 3 rows",
+          "hierarchy": "equal group portraits",
+          "crop": "rectangular edge to edge",
+          "overlap": "none",
+          "decoration": "hearts stars crosses drawn over photos"
+        }
+      }
+    ]
+  },
+  {
+    "id": "7537788572586344974",
+    "platform": "Lemon8",
+    "title": "HOW TO scrapbook carousel insta post",
+    "author": "Anna June",
+    "url": "https://www.lemon8-app.com/@annajune_/7537788572586344974",
+    "date": "2025-08-13",
+    "age_label": "常青参考",
+    "region": "未知",
+    "body": "Swipe to see my scrapbook carousel post on insta! Use Canva custom dimensions; frames and cutouts; split with Pinetools.",
+    "likes": 49,
+    "saves": 58,
+    "ui_counter_note": "1/8含推荐页；7个原帖图片项均已审核，下载按文件名排序。",
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:04:01.271Z",
+    "total_media": 7,
+    "reviewed_count": 7,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/7537788572586344974/1.webp",
+        "sha256": "1a36df063cd2e749b4360f22a0913b117e3b53cfea12a23ab2ee7baf6622d693",
+        "status": "excluded",
+        "reason": "教程封面，非成片",
+        "features": null
+      },
+      {
+        "media_index": 2,
+        "file": "media/7537788572586344974/2.webp",
+        "sha256": "5a322f946863c90b99525c1f3ba690274f064aa0f13ce37af1fca4ec66d06379",
+        "status": "candidate",
+        "reason": "夕阳背景+金框小像+人物白边抠图",
+        "features": {
+          "slots": "4 gold portraits plus vertical four selfie strip and central person",
+          "hierarchy": "large sunset field and foreground graduate",
+          "crop": "ornate frame and full body contour",
+          "overlap": "gold frames diagonal; cutout overlays base",
+          "decoration": "gold frames instant strip stars"
+        }
+      },
+      {
+        "media_index": 3,
+        "file": "media/7537788572586344974/3.webp",
+        "sha256": "a01f1bbedf1207a53b0fefe181f5a611efabd232d84424dd1c6e41e2a9956379",
+        "status": "excluded",
+        "reason": "尺寸设置界面",
+        "features": null
+      },
+      {
+        "media_index": 4,
+        "file": "media/7537788572586344974/4.webp",
+        "sha256": "3fe9ed90590eb161691c31b78db5fd03dd91e3ce5b2a47dbf96104a8792077b0",
+        "status": "excluded",
+        "reason": "教学说明截图，非成片",
+        "features": null
+      },
+      {
+        "media_index": 5,
+        "file": "media/7537788572586344974/5.webp",
+        "sha256": "50943035e0270c7a701b043c6d1cd4cb58c39c42fbfa6d6d09568e173e34c3b1",
+        "status": "candidate",
+        "reason": "黑白亲吻主图与右侧白边照片加CD",
+        "features": {
+          "slots": "large left portrait and right stacked framed snapshots",
+          "hierarchy": "dominant black white couple",
+          "crop": "polaroid borders",
+          "overlap": "right frames and CD cross image seam",
+          "decoration": "gold star and handwritten summer CD"
+        }
+      },
+      {
+        "media_index": 6,
+        "file": "media/7537788572586344974/6.webp",
+        "sha256": "b841670134b8b0f0b22808c29bfb90965ba110ea067f231e00f65f1c0d3a1356",
+        "status": "excluded",
+        "reason": "图片切分工具界面",
+        "features": null
+      },
+      {
+        "media_index": 7,
+        "file": "media/7537788572586344974/7.webp",
+        "sha256": "890f818fa707de4412f22d7acf01511516b75397e432bf4e2e52a9a433b543cb",
+        "status": "excluded",
+        "reason": "手机搜索应用界面",
+        "features": null
+      }
+    ]
+  },
+  {
+    "id": "7459234890517824043",
+    "platform": "Lemon8",
+    "title": "scrapbook style instagram post",
+    "author": "Rachel C!",
+    "url": "https://www.lemon8-app.com/@rchandlerc/7459234890517824043",
+    "date": "2025-01-13",
+    "age_label": "常青参考",
+    "region": "美国",
+    "region_basis": "作品场景，非作者国籍",
+    "region_evidence": "图内Grand Canyon/Arizona标牌、UAB毕业场景",
+    "body": "easy scrapbook style post using canva!!",
+    "likes": 19,
+    "saves": 19,
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:04:01.293Z",
+    "total_media": 4,
+    "reviewed_count": 4,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/7459234890517824043/1.webp",
+        "sha256": "523d2d0312ceaaffee91d59748556c1ae60ef6dd0727a2c1a752f89ef1c7c994",
+        "status": "candidate",
+        "reason": "旅行主画面与撕纸自拍叠放",
+        "features": {
+          "slots": "large legs sunset with drink image and lower small portrait",
+          "hierarchy": "full background and foreground drink",
+          "crop": "torn paper edges",
+          "overlap": "diagonal paper across center",
+          "decoration": "pink ribbon and starfish"
+        }
+      },
+      {
+        "media_index": 2,
+        "file": "media/7459234890517824043/2.webp",
+        "sha256": "fc0bbd8c8ee3ef27be89e5ef9e41dfff517d01de6826d145a7b92418131081cb",
+        "status": "candidate",
+        "reason": "Grand Canyon主图+右侧三联拍立得",
+        "features": {
+          "slots": "1 large vertical plus 3 small vertical column",
+          "hierarchy": "large couple landscape",
+          "crop": "polaroid three strip",
+          "overlap": "strip overlays right edge",
+          "decoration": "Arizona sign image and paper border"
+        }
+      },
+      {
+        "media_index": 3,
+        "file": "media/7459234890517824043/3.webp",
+        "sha256": "7d4603be4b059ee076a4b01ae9c77cb30ab1564ab29e8331315a97118de34b39",
+        "status": "candidate",
+        "reason": "织物底与不规则旅行纸片簇",
+        "features": {
+          "slots": "5 travel photographs around central instant photo",
+          "hierarchy": "central polaroid portrait",
+          "crop": "torn paper and polaroid",
+          "overlap": "radial layered scraps",
+          "decoration": "ribbon yarn beads fabric texture"
+        }
+      },
+      {
+        "media_index": 4,
+        "file": "media/7459234890517824043/4.webp",
+        "sha256": "c3e6f1d8a970e953e5e9bcec2a9430f2fde2f638c9598dcdbbd9fc6be82150ec",
+        "status": "candidate",
+        "reason": "毕业双人抠图配建筑纸片",
+        "features": {
+          "slots": "large full body graduate pair and three small people photos",
+          "hierarchy": "large cutout at right",
+          "crop": "full body contour and torn paper",
+          "overlap": "graduates over campus backdrop",
+          "decoration": "cap sticker and graduation script"
+        }
+      }
+    ]
+  },
+  {
+    "id": "7545018113457127950",
+    "platform": "Lemon8",
+    "title": "Digital scrapbook inspo",
+    "author": "M★NAI @1uvhome",
+    "url": "https://www.lemon8-app.com/@1uvhome/7545018113457127950",
+    "date": "2025-09-01",
+    "age_label": "常青参考",
+    "region": "未知",
+    "body": "My spread for my digital scrapbook! I used Canva for all the elements and a drawing program for extra text + doodles",
+    "likes": 2,
+    "saves": 1,
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:06:08.866Z",
+    "total_media": 7,
+    "reviewed_count": 7,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/7545018113457127950/1.webp",
+        "sha256": "6628f56df32e2da361c8136169c80541b5d25af74cc5a6304fe4964f436e94d7",
+        "status": "candidate",
+        "reason": "牛皮纸餐厅日记，双小拍立得压在人物合照上",
+        "features": {
+          "slots": "3: 2 small tilted top + large bottom",
+          "hierarchy": "large bottom restaurant group",
+          "crop": "instant black frames",
+          "overlap": "small frames overlap bottom",
+          "decoration": "paper tape handwritten restaurant labels"
+        }
+      },
+      {
+        "media_index": 2,
+        "file": "media/7545018113457127950/2.webp",
+        "sha256": "61d5b33bdec5589ed7a277159049d18b6d15eb2997891d6fc8d830b14ec4c77d",
+        "status": "candidate",
+        "reason": "十余个全身穿搭抠图环绕拼字标题",
+        "features": {
+          "slots": "10 plus whole body cutouts",
+          "hierarchy": "central MO closet title",
+          "crop": "full body contour silhouettes",
+          "overlap": "free scattered across flat mint",
+          "decoration": "cutout letters pink blob and doodles"
+        }
+      },
+      {
+        "media_index": 3,
+        "file": "media/7545018113457127950/3.webp",
+        "sha256": "7c318d69a7f75e77b3dd27c284a62c855418684c3691e03007827e45d884cc98",
+        "status": "candidate",
+        "reason": "海滩背景配右侧自拍与下角弹吉他人像",
+        "features": {
+          "slots": "beach base plus 2 portraits",
+          "hierarchy": "full bleed beach with right instant selfie",
+          "crop": "instant and contour person",
+          "overlap": "stacked right margin",
+          "decoration": "LIFE cutout title white star doodle"
+        }
+      },
+      {
+        "media_index": 4,
+        "file": "media/7545018113457127950/4.webp",
+        "sha256": "700ebc97d48b1fd7c4a16bee0f9f3a68e6c6e2b1200975542600c49ad3cb0fbb",
+        "status": "blacklist",
+        "reason": "无人出镜的便签文字与风景页",
+        "features": null
+      },
+      {
+        "media_index": 5,
+        "file": "media/7545018113457127950/5.webp",
+        "sha256": "31319fed278846ea8c987b82f9108423400deb423968b02860fee6c76dc618ad",
+        "status": "excluded",
+        "reason": "主要是食物与局部身体，人物出镜证据不足",
+        "features": null
+      },
+      {
+        "media_index": 6,
+        "file": "media/7545018113457127950/6.webp",
+        "sha256": "c276e604e5c723b4dd24ff9957c23796e43fdaedc9a4eb1f54a9916f20160901",
+        "status": "candidate",
+        "reason": "上方三张拍立得配下方横向风景胶片",
+        "features": {
+          "slots": "3 top instant frames and lower 3 film frames",
+          "hierarchy": "upper right mirror selfie",
+          "crop": "instant and film strip",
+          "overlap": "bottom strip rotated across canvas",
+          "decoration": "paper grain yellow stars flower"
+        }
+      },
+      {
+        "media_index": 7,
+        "file": "media/7545018113457127950/7.webp",
+        "sha256": "27f75482a3bc6088e1679bf3266742e299f7d264f78627e94d7954c16ebf9339",
+        "status": "candidate",
+        "reason": "家庭合影与生活角落配中央便签",
+        "features": {
+          "slots": "5 photos surrounding lower center note",
+          "hierarchy": "large upper family room",
+          "crop": "rectangles and bottom instant",
+          "overlap": "photos form loose ring",
+          "decoration": "purple tape hearts handwritten reunion memo"
+        }
+      }
+    ]
+  },
+  {
+    "id": "7451431759994176046",
+    "platform": "Lemon8",
+    "title": "make a 24 insta scrapbook",
+    "author": "anna @annajacobellis",
+    "url": "https://www.lemon8-app.com/@annajacobellis/7451431759994176046",
+    "date": "2024-12-23",
+    "age_label": "常青参考",
+    "region": "未知",
+    "body": "make a cute layout with Canva",
+    "likes": 3,
+    "saves": 1,
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:10:08.046Z",
+    "total_media": 6,
+    "reviewed_count": 6,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/7451431759994176046/1.webp",
+        "sha256": "e202f974d7a453b448f5afe3bea2c371f099cc3f985e1de29d60c49b96236419",
+        "status": "candidate",
+        "reason": "左侧三张好友小图与右侧约会主图，缎带标题",
+        "features": {
+          "slots": "left 3 row strip plus full right portrait",
+          "hierarchy": "right formal couple dominant",
+          "crop": "rectangles",
+          "overlap": "left strip beside right large image",
+          "decoration": "formal pink ribbon and tulip sticker"
+        }
+      },
+      {
+        "media_index": 2,
+        "file": "media/7451431759994176046/2.webp",
+        "sha256": "3f66e203f4d07ca944f97c653cb96b007852bfa5b9ad54d6528fde9f749d976e",
+        "status": "excluded",
+        "reason": "基础照片分格加标题，设计不足",
+        "features": null
+      },
+      {
+        "media_index": 3,
+        "file": "media/7451431759994176046/3.webp",
+        "sha256": "39732b60d65db7849415c17f41f3590e14568d5a2fffaca0358611a638ad564f",
+        "status": "excluded",
+        "reason": "基础照片分格加标题，设计不足",
+        "features": null
+      },
+      {
+        "media_index": 4,
+        "file": "media/7451431759994176046/4.webp",
+        "sha256": "f6a860259f444fd4ca278d7b32d80d777ee9c769b88944de03104db737484782",
+        "status": "excluded",
+        "reason": "单张合照封面，无拼贴结构",
+        "features": null
+      },
+      {
+        "media_index": 5,
+        "file": "media/7451431759994176046/5.webp",
+        "sha256": "7a59f78a51deb373748670b59ede7b4d7093968b44f61f1680cec67084090a39",
+        "status": "candidate",
+        "reason": "三大小组合与中央花束分隔",
+        "features": {
+          "slots": "2 upper and 2 unequal lower group portraits",
+          "hierarchy": "upper portraits balanced",
+          "crop": "rectangles",
+          "overlap": "nonoverlap four cells",
+          "decoration": "central tulip bouquet and script crossing top"
+        }
+      },
+      {
+        "media_index": 6,
+        "file": "media/7451431759994176046/6.webp",
+        "sha256": "53a9569313ea8edb6d82814c2d37735ddfb51f3fcc71493b0be44d80dbc7f4d7",
+        "status": "candidate",
+        "reason": "比赛日大群像与斜切小图",
+        "features": {
+          "slots": "large upper group plus 2 bottom shots",
+          "hierarchy": "top group dominant",
+          "crop": "tilted square edge",
+          "overlap": "diagonal bottom selfie over lower photo",
+          "decoration": "lightning sticker and Game Day script"
+        }
+      }
+    ]
+  },
+  {
+    "id": "6a68c4d9000000001102ee97",
+    "platform": "小红书",
+    "title": "拼接照片好有意思",
+    "author": "Joy Bubble",
+    "url": "https://www.xiaohongshu.com/explore/6a68c4d9000000001102ee97",
+    "date": "2026-07-28",
+    "region": "中国",
+    "region_evidence": "作者评论IP江苏",
+    "likes": 83,
+    "saves": 7,
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:10:08.124Z",
+    "total_media": 5,
+    "reviewed_count": 5,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/6a68c4d9000000001102ee97/1.webp",
+        "sha256": "35420423c48a3ab213246344e7d98e883ee70a20948f2ab8730b1e1dd33a98e4",
+        "status": "blacklist",
+        "reason": "无装饰基础上下照片拼接",
+        "features": null
+      },
+      {
+        "media_index": 2,
+        "file": "media/6a68c4d9000000001102ee97/2.webp",
+        "sha256": "83d28392acdefdbcfc6e7848a6f45ff25ed269a045ce66861a2a947bd00de063",
+        "status": "blacklist",
+        "reason": "无装饰基础上下照片拼接",
+        "features": null
+      },
+      {
+        "media_index": 3,
+        "file": "media/6a68c4d9000000001102ee97/3.webp",
+        "sha256": "29a96bb40021404c3274e13d7f646811409872c54c8b03752a3d6341b9f2e0c3",
+        "status": "blacklist",
+        "reason": "无装饰基础上下照片拼接",
+        "features": null
+      },
+      {
+        "media_index": 4,
+        "file": "media/6a68c4d9000000001102ee97/4.webp",
+        "sha256": "b41612238c10e1f15ccb53bbf24f03271fe2478fb24b4affb55f6773b174aafb",
+        "status": "blacklist",
+        "reason": "无装饰基础上下照片拼接",
+        "features": null
+      },
+      {
+        "media_index": 5,
+        "file": "media/6a68c4d9000000001102ee97/5.webp",
+        "sha256": "4d79eacef36ed0691bed150e15d60d8cfe3d6fc6d1b0c2f722185a06eb627788",
+        "status": "blacklist",
+        "reason": "无装饰基础上下照片拼接",
+        "features": null
+      }
+    ]
+  },
+  {
+    "id": "6a4251c3000000002200ba52",
+    "platform": "小红书",
+    "title": "拼贴让你的照片更有sense",
+    "author": "宝Lina",
+    "url": "https://www.xiaohongshu.com/explore/6a4251c3000000002200ba52",
+    "date": "2026-07-05",
+    "region": "中国",
+    "region_evidence": "作者评论IP浙江",
+    "body": "最近很喜欢的拼贴！星星贴纸或者色系贴纸配合日常穿，让照片更有层次",
+    "likes": 110,
+    "saves": 31,
+    "media_type": "页面LIVE标记；本次仅保存并核验静态预览，未核验动态",
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:10:08.140Z",
+    "total_media": 10,
+    "reviewed_count": 10,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/6a4251c3000000002200ba52/1.webp",
+        "sha256": "984a521cf4a240f6abcc1ce19f15ec616f6ef4d3dc525437774ed23fbf7b098e",
+        "status": "excluded",
+        "reason": "单照片配色卡",
+        "features": null
+      },
+      {
+        "media_index": 2,
+        "file": "media/6a4251c3000000002200ba52/2.webp",
+        "sha256": "2eeccf9d150c7704863d95ede72ed3ef2a5a29b061f78e7b02432e54e2d792dc",
+        "status": "excluded",
+        "reason": "单照片",
+        "features": null
+      },
+      {
+        "media_index": 3,
+        "file": "media/6a4251c3000000002200ba52/3.webp",
+        "sha256": "2825b904239cfb6d81562b3e1e557f6eff35a5a148755134845c6821724dda5e",
+        "status": "candidate",
+        "reason": "主图人物抠出置前，角落插图与黄色星星",
+        "features": {
+          "slots": "full bleed plus upper left and lower right inserts",
+          "hierarchy": "full body central cutout",
+          "crop": "rectangles plus body contour",
+          "overlap": "body projects above two insets",
+          "decoration": "yellow four star accents"
+        }
+      },
+      {
+        "media_index": 4,
+        "file": "media/6a4251c3000000002200ba52/4.webp",
+        "sha256": "792c24914b1336ad4ae571ad018e229a4599cfcccbbb9a3236b6970d52b8133b",
+        "status": "excluded",
+        "reason": "单照片配文",
+        "features": null
+      },
+      {
+        "media_index": 5,
+        "file": "media/6a4251c3000000002200ba52/5.webp",
+        "sha256": "0d9b21a550244997cf09a5fd860a6aaed23790c377c1e06cc694a04cb4d61ea1",
+        "status": "excluded",
+        "reason": "单照片",
+        "features": null
+      },
+      {
+        "media_index": 6,
+        "file": "media/6a4251c3000000002200ba52/6.webp",
+        "sha256": "89b8adf13c16736d12dc5e235ef43e14130d12ac9c2cfeb0e0674b7c16116e7d",
+        "status": "excluded",
+        "reason": "单照片",
+        "features": null
+      },
+      {
+        "media_index": 7,
+        "file": "media/6a4251c3000000002200ba52/7.webp",
+        "sha256": "4686198db0c8dea259968b62852ba7e76263f2ab59bb3e76ba7deb3ed64d2409",
+        "status": "excluded",
+        "reason": "单照片加星星，不作为多图拼贴",
+        "features": null
+      },
+      {
+        "media_index": 8,
+        "file": "media/6a4251c3000000002200ba52/8.webp",
+        "sha256": "be42cdfeb3edf398077a87e2413e91ead7a30c95b5e967e9d727f7ec440d8537",
+        "status": "excluded",
+        "reason": "单照片",
+        "features": null
+      },
+      {
+        "media_index": 9,
+        "file": "media/6a4251c3000000002200ba52/9.webp",
+        "sha256": "8f84e20ee9967ce514491e10401b9d38256a9328f696fb43a45ad255931ad2f6",
+        "status": "excluded",
+        "reason": "单照片",
+        "features": null
+      },
+      {
+        "media_index": 10,
+        "file": "media/6a4251c3000000002200ba52/10.webp",
+        "sha256": "8f7777cf564d082f883a17e961297a56c616305f13c520737baef4bb2ac2849d",
+        "status": "candidate",
+        "reason": "复古桌面窗口叠放，日历缩略图窗",
+        "features": {
+          "slots": "many calendar thumbnails plus 1 large portrait window",
+          "hierarchy": "large lower right photo window",
+          "crop": "90s desktop window frames",
+          "overlap": "overlap three windows",
+          "decoration": "blue desktop calendar dialog buttons"
+        }
+      }
+    ]
+  },
+  {
+    "id": "7320354149605065221",
+    "platform": "Lemon8",
+    "title": "instagram christmas scrapbook carousel inspo",
+    "author": "imemilysandoval",
+    "url": "https://www.lemon8-app.com/@imemilysandoval/7320354149605065221",
+    "date": "2024-01-05",
+    "age_label": "常青参考",
+    "region": "未知",
+    "body": "our christmas recap; made digital scrapbook; minimal",
+    "likes": 7,
+    "saves": 4,
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:16:12.182Z",
+    "total_media": 7,
+    "reviewed_count": 7,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/7320354149605065221/1.webp",
+        "sha256": "4d1b3adb28e366603df13fd13771da86031394293b04e0c6b650acaa050dabd0",
+        "status": "excluded",
+        "reason": "基本矩形拼接；无新增设计",
+        "features": null
+      },
+      {
+        "media_index": 2,
+        "file": "media/7320354149605065221/2.webp",
+        "sha256": "5f3a19b341f30c7ad52ed811c40efc970a249ef7e0d0c06d10e8229d3acd79a5",
+        "status": "candidate",
+        "reason": "镜子合照主画面，两侧窄条人脸",
+        "features": {
+          "slots": "center full mirror portrait flanked by narrow strips",
+          "hierarchy": "large central two people",
+          "crop": "rectangular strips",
+          "overlap": "side strips truncate faces",
+          "decoration": "corner poinsettia and dark green blocks"
+        }
+      },
+      {
+        "media_index": 3,
+        "file": "media/7320354149605065221/3.webp",
+        "sha256": "b1411365c1d276842d5da9fbf8a4252af1c1c0fd14416cc09c66d0a6c26f1114",
+        "status": "excluded",
+        "reason": "教程介绍封面，非多图成片",
+        "features": null
+      },
+      {
+        "media_index": 4,
+        "file": "media/7320354149605065221/4.webp",
+        "sha256": "41797802a21210e3fda5be99c852ed7b92fa9d8648c14691b0443f57866e8402",
+        "status": "excluded",
+        "reason": "基础照片拼接",
+        "features": null
+      },
+      {
+        "media_index": 5,
+        "file": "media/7320354149605065221/5.webp",
+        "sha256": "81f555e1f0a44d3135c14bdcf60fcf2f2a1582bfd867cefe3df01ced6c32f46b",
+        "status": "candidate",
+        "reason": "上下双合照与左侧窄条，花朵跨格",
+        "features": {
+          "slots": "2 large horizontal portraits plus left narrow strip",
+          "hierarchy": "upper selfie dominant",
+          "crop": "rectangles",
+          "overlap": "flower crosses top left seam",
+          "decoration": "red poinsettia on dark green"
+        }
+      },
+      {
+        "media_index": 6,
+        "file": "media/7320354149605065221/6.webp",
+        "sha256": "e7a9cf3af09b1e1e2cbc18f6db7621081c2cc2606f0d05522ca2a899ee471ee1",
+        "status": "candidate",
+        "reason": "右侧人狗主图配左侧三个人物贴纸",
+        "features": {
+          "slots": "1 large person dog plus 3 person cutouts left",
+          "hierarchy": "large right candid shot",
+          "crop": "white contour cutout bodies",
+          "overlap": "small cutouts in vertical sidebar",
+          "decoration": "poinsettias between cutouts dark green strip"
+        }
+      },
+      {
+        "media_index": 7,
+        "file": "media/7320354149605065221/7.webp",
+        "sha256": "3771592b9e58fc6dfebf646a6613139f2e3caad457e136a14eb12e3bd23904b1",
+        "status": "excluded",
+        "reason": "跨页右侧留白段，独立成片不完整",
+        "features": null
+      }
+    ]
+  },
+  {
+    "id": "7443283852711330359",
+    "platform": "Lemon8",
+    "title": "Instagram idea!?",
+    "author": "Fiona Flower :)",
+    "url": "https://www.lemon8-app.com/@feefifofum021/7443283852711330359",
+    "date": "2024-12-07",
+    "age_label": "常青参考",
+    "region": "未知",
+    "body": "I make collages of my instagram posts using SCRL and sometimes lemon8 for designs and drawings",
+    "likes": 7,
+    "saves": 5,
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:16:12.283Z",
+    "total_media": 7,
+    "reviewed_count": 7,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/7443283852711330359/1.webp",
+        "sha256": "d290281384959e04a0dacc6a95719c65dc5c8f1e8e5428d846c4256943fffcd1",
+        "status": "excluded",
+        "reason": "问题封面",
+        "features": null
+      },
+      {
+        "media_index": 2,
+        "file": "media/7443283852711330359/2.webp",
+        "sha256": "1f4f5a927aee77a7ed9dea882406ed894dc3c8c3b3544e3a344f202c02bf36c7",
+        "status": "excluded",
+        "reason": "第三方社交帖截图",
+        "features": null
+      },
+      {
+        "media_index": 3,
+        "file": "media/7443283852711330359/3.webp",
+        "sha256": "d871b449a29869f56b7f06e78abd0214dbd173e3bddfc1e538af4e42c08bd8d6",
+        "status": "excluded",
+        "reason": "第三方社交帖截图",
+        "features": null
+      },
+      {
+        "media_index": 4,
+        "file": "media/7443283852711330359/4.webp",
+        "sha256": "a466fa0549845eee03a8f7e159a295c696dc437319362950745fa0263aeaa7fd",
+        "status": "excluded",
+        "reason": "简单右主图左竖条，无新装饰",
+        "features": null
+      },
+      {
+        "media_index": 5,
+        "file": "media/7443283852711330359/5.webp",
+        "sha256": "f11121ec3e5761c82973a6ed76da0fc69ee317bb52bcf453d7f44611322cba66",
+        "status": "candidate",
+        "reason": "双朋友照配棋盘格与音乐截图",
+        "features": {
+          "slots": "2 equal vertical stacked friend photos plus small media card",
+          "hierarchy": "two friend photos",
+          "crop": "rectangles",
+          "overlap": "small music card across right side",
+          "decoration": "green white checkerboard sidebar"
+        }
+      },
+      {
+        "media_index": 6,
+        "file": "media/7443283852711330359/6.webp",
+        "sha256": "feba2610e77be3692ee5e2f17830b50e11820d6e0449618a9c366ced8b2e802c",
+        "status": "candidate",
+        "reason": "电影生活拼贴配粉纹理与社媒卡片",
+        "features": {
+          "slots": "upper wide poster photo plus lower large person and small card",
+          "hierarchy": "lower standing woman dominant",
+          "crop": "rectangles",
+          "overlap": "small social card lower right",
+          "decoration": "pink marbled column and poster wall theme"
+        }
+      },
+      {
+        "media_index": 7,
+        "file": "media/7443283852711330359/7.webp",
+        "sha256": "b7a45cd05874e8dec830fde1bf81f8465ac57ed41dbbc06ae0705f30f6e0e727",
+        "status": "excluded-similar",
+        "reason": "普通角落矩形插图，与历史NEW-XHS-01近似",
+        "features": null
+      }
+    ]
+  },
+  {
+    "id": "699b1e51000000001d024ef8",
+    "platform": "小红书",
+    "title": "ins感韩系拼贴模板分享",
+    "author": "菅甜川",
+    "url": "https://www.xiaohongshu.com/explore/699b1e51000000001d024ef8",
+    "date": "2026-02-22",
+    "region": "中国",
+    "region_evidence": "作者评论IP四川",
+    "source_type": "个人模板分享；原创归属未单独认证",
+    "body": "ins风拍照、韩系拼贴、手账模板",
+    "likes": 1448,
+    "saves": 817,
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:27:41.430Z",
+    "total_media": 9,
+    "reviewed_count": 9,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/699b1e51000000001d024ef8/1.webp",
+        "sha256": "d3c6858157c086ce26b93dd33f705299111aeb12ae2ad5899d3fd8eb50212640",
+        "status": "excluded",
+        "reason": "合集封面",
+        "features": null
+      },
+      {
+        "media_index": 2,
+        "file": "media/699b1e51000000001d024ef8/2.webp",
+        "sha256": "5fc183c058065f64b8603914eff25d720e34f5d05a81aa5ab9c214fc885fe868",
+        "status": "candidate",
+        "reason": "灰渐变双图错位、星星与回形针",
+        "features": {
+          "slots": "2 diagonal offset photos",
+          "hierarchy": "upper portrait lower detail",
+          "crop": "rectangles",
+          "overlap": "diagonal nonoverlap with wide gradient margin",
+          "decoration": "black stars white paperclip cloud emoji"
+        }
+      },
+      {
+        "media_index": 3,
+        "file": "media/699b1e51000000001d024ef8/3.webp",
+        "sha256": "3d5ea9b1f143a7c5b660f41e1dd8cf137f67a2515801cd7037a567f273642135",
+        "status": "excluded-similar",
+        "reason": "普通错位双矩形，与历史相似款不计",
+        "features": null
+      },
+      {
+        "media_index": 4,
+        "file": "media/699b1e51000000001d024ef8/4.webp",
+        "sha256": "fcad7201483f1eb7de1d074d63136624cea2d9ecc37ccb2b8399db9bd2678ef9",
+        "status": "excluded-similar",
+        "reason": "普通错位双矩形，与本帖其他双图同款",
+        "features": null
+      },
+      {
+        "media_index": 5,
+        "file": "media/699b1e51000000001d024ef8/5.webp",
+        "sha256": "6e938716c7a75771ffbb20e67ad1b31d8f38126cc2511d3f8287e252a2168b4b",
+        "status": "excluded",
+        "reason": "单张照片文字边框",
+        "features": null
+      },
+      {
+        "media_index": 6,
+        "file": "media/699b1e51000000001d024ef8/6.webp",
+        "sha256": "b8932ca67c679ba55a51b8c91a14901bed0373c07b816d33ef524449aa081a4b",
+        "status": "candidate",
+        "reason": "圆形自拍与下方矩形自拍",
+        "features": {
+          "slots": "upper right circle plus large lower rectangle",
+          "hierarchy": "lower seated portrait dominant",
+          "crop": "circle and rectangle",
+          "overlap": "offset vertical pair",
+          "decoration": "winged heart doodle and handwritten live in moment"
+        }
+      },
+      {
+        "media_index": 7,
+        "file": "media/699b1e51000000001d024ef8/7.webp",
+        "sha256": "91771e220975b2d3ccbeb9384d04b8a0b640bb7eb3486210e2c49c314b94acd7",
+        "status": "excluded-similar",
+        "reason": "与本帖灰底双图同款",
+        "features": null
+      },
+      {
+        "media_index": 8,
+        "file": "media/699b1e51000000001d024ef8/8.webp",
+        "sha256": "872ad505476ee4bbc4f699e0f3abbd32dd7a35b0605cbd0cf606c3dd2aa43dd6",
+        "status": "excluded-similar",
+        "reason": "与本帖灰底双图同款，仅变贴纸和照片",
+        "features": null
+      },
+      {
+        "media_index": 9,
+        "file": "media/699b1e51000000001d024ef8/9.webp",
+        "sha256": "b8f19438de5a8e8ce8864b7a85095315fa5be936d456d2cf3b7cd897ab23e8cc",
+        "status": "excluded-similar",
+        "reason": "历史已有普通角落插图，谨慎剔除",
+        "features": null
+      }
+    ]
+  },
+  {
+    "id": "7506896144363127342",
+    "platform": "Lemon8",
+    "title": "IG scrapbook post template",
+    "author": "Missy Dizzy",
+    "url": "https://www.lemon8-app.com/@linger_z02/7506896144363127342",
+    "date": "2025-05-21",
+    "age_label": "常青参考",
+    "region": "未知",
+    "source_type": "模板创作者官方展示；仅裁出已填图Sample，未获取付费源文件",
+    "body": "7 FREE Instagram Scrapbook Canva Templates with Soft Blue All-in-One Notion Template",
+    "likes": 7,
+    "saves": 7,
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:27:41.434Z",
+    "total_media": 7,
+    "reviewed_count": 7,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/7506896144363127342/1.webp",
+        "sha256": "c154e4ab20aceb4a77a5837a78767e436bc1712da078dbcf14dbe335cf0f724c",
+        "status": "candidate",
+        "reason": "竖向三联人物压在模糊底图与窗口卡片",
+        "features": {
+          "slots": "3 vertical instant portraits plus 1 tiny screen inset",
+          "hierarchy": "central vertical strip",
+          "crop": "instant white frame and mini dialog",
+          "overlap": "strip over blurred full bleed background",
+          "decoration": "pink heart gummy bears tiny retro window"
+        }
+      },
+      {
+        "media_index": 2,
+        "file": "media/7506896144363127342/2.webp",
+        "sha256": "76cbc11702170b641a9a9a020b7b2d9c057cfc03224379a1e6b172801dd4e88c",
+        "status": "candidate",
+        "reason": "倾斜线圈手账与上方拍立得、角落相机",
+        "features": {
+          "slots": "3 notebook portraits plus one top instant",
+          "hierarchy": "large angled notebook",
+          "crop": "notebook frames and instant border",
+          "overlap": "notebook diagonally over background",
+          "decoration": "spiral binding pink heading camera cherries"
+        }
+      },
+      {
+        "media_index": 3,
+        "file": "media/7506896144363127342/3.webp",
+        "sha256": "91b3b86c5cecf4c20c4577d39dd2813d6018c5d5a49404e449b03f3f887d4a7e",
+        "status": "candidate",
+        "reason": "蓝色线稿卡片与不规则人像照片群",
+        "features": {
+          "slots": "5 irregular small portraits around upper note",
+          "hierarchy": "upper right handwritten rectangle",
+          "crop": "rough paper photo edges",
+          "overlap": "overlapping lower photo cluster",
+          "decoration": "blue ink grid icons doodles stamp"
+        }
+      },
+      {
+        "media_index": 4,
+        "file": "media/7506896144363127342/4.webp",
+        "sha256": "bf475e44ab5ad63b6ae5814d82272c02bf840f92c8034a2cb4984600d7f9d568",
+        "status": "candidate",
+        "reason": "月历主版与上下穿搭照片条",
+        "features": {
+          "slots": "3 top mini frames plus 5 lower photos around calendar",
+          "hierarchy": "central May calendar",
+          "crop": "film borders and rectangles",
+          "overlap": "lower photos cover calendar bottom",
+          "decoration": "pink stars hearts and calendar typography"
+        }
+      },
+      {
+        "media_index": 5,
+        "file": "media/7506896144363127342/5.webp",
+        "sha256": "57617ec413108bae6d2133f2bcefd0bd577f7f6e740418798157a8fea1ca8b12",
+        "status": "candidate",
+        "reason": "粉棋盘与CD，拍立得斜向分布",
+        "features": {
+          "slots": "4 tilted instant portraits across diagonal",
+          "hierarchy": "large lower portrait",
+          "crop": "instant white frames",
+          "overlap": "loose diagonal scattered photos",
+          "decoration": "CD bunny camera pink checkerboard"
+        }
+      },
+      {
+        "media_index": 6,
+        "file": "media/7506896144363127342/6.webp",
+        "sha256": "d15839a5d2741c1863580eda534a2eed321335adbdbc476746ee140db139c83f",
+        "status": "candidate",
+        "reason": "复古绘图软件窗口内外人物插图",
+        "features": {
+          "slots": "large image canvas and 3 small picture windows",
+          "hierarchy": "large upper painter canvas",
+          "crop": "software window borders",
+          "overlap": "small windows overlap big canvas",
+          "decoration": "blue desktop icons tool palette dialog"
+        }
+      },
+      {
+        "media_index": 7,
+        "file": "media/7506896144363127342/7.webp",
+        "sha256": "9bfebbc9a0a4c3c0806ea632714802e9d777db85c75b863fa874e4cefe7e7006",
+        "status": "candidate",
+        "reason": "多张拍立得环绕中央空位与拼字标题",
+        "features": {
+          "slots": "6 small instant portraits surrounding open center",
+          "hierarchy": "large upper tilted portrait",
+          "crop": "instant white frames",
+          "overlap": "radial photos over large travel photo",
+          "decoration": "search bar cherries instant camera cutout recap letters"
+        }
+      }
+    ]
+  },
+  {
+    "id": "7446734712350982702",
+    "platform": "Lemon8",
+    "title": "Merry Christmas IG scrapbook post",
+    "author": "Missy Dizzy",
+    "url": "https://www.lemon8-app.com/@linger_z02/7446734712350982702",
+    "date": "2024-12-10",
+    "region": "未知",
+    "body": "Merry Christmas IG Scrapbook Post Canva Template",
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:27:41.464Z",
+    "total_media": 3,
+    "reviewed_count": 3,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/7446734712350982702/1.webp",
+        "sha256": "b246c0dfeb22fe816dd326f2205b3c3506536d54ec3f2285dcc8a7258ec4fdfe",
+        "status": "excluded",
+        "reason": "广告展示封面、样片尺寸过小或空模板，不交付",
+        "features": null
+      },
+      {
+        "media_index": 2,
+        "file": "media/7446734712350982702/2.webp",
+        "sha256": "3befd22ec5391998758d4e519403bc6b85a9e8a2e2b68124ba35d3ac71a2e029",
+        "status": "excluded",
+        "reason": "广告展示封面、样片尺寸过小或空模板，不交付",
+        "features": null
+      },
+      {
+        "media_index": 3,
+        "file": "media/7446734712350982702/3.webp",
+        "sha256": "55b3fcf0454ec8724f00462ed460a3edc71f619251f26855ab37035126fc8719",
+        "status": "excluded",
+        "reason": "广告展示封面、样片尺寸过小或空模板，不交付",
+        "features": null
+      }
+    ]
+  },
+  {
+    "id": "7632489157524275719",
+    "platform": "Lemon8",
+    "title": "ไอเดียอัปเกรด IG Story",
+    "author": "Jirat @jsymayo",
+    "url": "https://www.lemon8-app.com/@jsymayo/7632489157524275719",
+    "date": "04-25（页面未显示年份）",
+    "region": "泰语市场",
+    "region_basis": "正文、成片文字均为泰语；作者所在地未知",
+    "body": "用IG Collage、Phonto字体、Lemon8模板组合故事排版",
+    "likes": 2282,
+    "saves": 1629,
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:29:37.825Z",
+    "total_media": 5,
+    "reviewed_count": 5,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/7632489157524275719/1.webp",
+        "sha256": "8ba80cc6e6626cb94f1e9a75a885b2eaf9069f7875e4dbe0ba099816aa31e25f",
+        "status": "excluded",
+        "reason": "教程总览封面",
+        "features": null
+      },
+      {
+        "media_index": 2,
+        "file": "media/7632489157524275719/2.webp",
+        "sha256": "a7078ebf220eb4e8360e07b073eb540dc981dca525a1faa0beaafb83f6f4b597",
+        "status": "excluded",
+        "reason": "单照片加Pantone与编辑界面",
+        "features": null
+      },
+      {
+        "media_index": 3,
+        "file": "media/7632489157524275719/3.webp",
+        "sha256": "c5061695a720d6ea891a85a1d3d5b48c345fd3d1f8ae067d927579343680a5dd",
+        "status": "blacklist",
+        "reason": "无人出镜食物排版",
+        "features": null
+      },
+      {
+        "media_index": 4,
+        "file": "media/7632489157524275719/4.webp",
+        "sha256": "3c73e3dd1c0419393db382c25ba6d3a025c6b0a0fcb72147387e1d8ea8570ef0",
+        "status": "candidate",
+        "reason": "双人上下照片、胶片照片条与唱片",
+        "features": {
+          "slots": "2 stacked friend photos plus tilted strip of small portraits",
+          "hierarchy": "two central friend portraits",
+          "crop": "rounded rectangles and photo strip",
+          "overlap": "strip overlaps lower photo",
+          "decoration": "vinyl disc and 1 day trip typography"
+        }
+      },
+      {
+        "media_index": 5,
+        "file": "media/7632489157524275719/5.webp",
+        "sha256": "cfb4e856c21c06e1aa3df5d5db3c5b2b13484347b724c4fb76b71e20657d9e1a",
+        "status": "candidate",
+        "reason": "鲜花人物三横条与纸信封、泰文字体",
+        "features": {
+          "slots": "3 horizontal story panels",
+          "hierarchy": "two flower arranging portraits and upper lotus detail",
+          "crop": "rectangular three strip",
+          "overlap": "envelope crosses lower seam",
+          "decoration": "cream envelope Thai display text lotus theme"
+        }
+      }
+    ]
+  },
+  {
+    "id": "7319853866995433990",
+    "platform": "Lemon8",
+    "title": "2023 digital scrapbook",
+    "author": "STARGIRL @princesslainaa",
+    "url": "https://www.lemon8-app.com/@princesslainaa/7319853866995433990",
+    "date": "2024-01-03",
+    "age_label": "常青参考",
+    "region": "未知",
+    "body": "my first digital scrapbook recently to recap the year; Procreate",
+    "likes": 54,
+    "saves": 37,
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:29:37.843Z",
+    "total_media": 6,
+    "reviewed_count": 6,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/7319853866995433990/1.webp",
+        "sha256": "e32ca4fd81249f97d69a1c67c63f1d9feb649cbcd2a45398ac987bda20d1e3b8",
+        "status": "candidate",
+        "reason": "打开书页与户外人物切片、手写字簇",
+        "features": {
+          "slots": "book spread lower left and large outdoor person lower right",
+          "hierarchy": "large landscape portrait",
+          "crop": "irregular paper edges and contour",
+          "overlap": "book overlaps left base",
+          "decoration": "neon handwritten title flowers rabbits tape"
+        }
+      },
+      {
+        "media_index": 2,
+        "file": "media/7319853866995433990/2.webp",
+        "sha256": "76ab283abb009b39c663973e23cfda8b6b0dfb72576e3f8a7d2a6e35e576e59a",
+        "status": "candidate",
+        "reason": "情绪月历表与演唱会小片、人物抠图",
+        "features": {
+          "slots": "central 7x5 yellow mood chart and surrounding 6 memories",
+          "hierarchy": "center mood tracker",
+          "crop": "rectangles and people contour",
+          "overlap": "cutouts layered over bottom grid",
+          "decoration": "yellow tracker neon title hand sketches"
+        }
+      },
+      {
+        "media_index": 3,
+        "file": "media/7319853866995433990/3.webp",
+        "sha256": "2169cde04e103422c64300f81c6cc43bb0b259b0a7ab42afd8df632e41cc5fbe",
+        "status": "candidate",
+        "reason": "长播放清单收据与人物抠图及演唱会照片",
+        "features": {
+          "slots": "tall right playlist receipt and left 4 photo pieces",
+          "hierarchy": "right vertical list",
+          "crop": "receipt paper and full body contour",
+          "overlap": "couple cutout over concert pictures",
+          "decoration": "blue purple stars hand text and music card"
+        }
+      },
+      {
+        "media_index": 4,
+        "file": "media/7319853866995433990/4.webp",
+        "sha256": "5edbfb4bf2fd8989a090173d1342c975c9b9249d79a0faaa70aa64d0ad36fb5b",
+        "status": "excluded-similar",
+        "reason": "同帖已有播放清单收据机制，不因换图再次计数",
+        "features": null
+      },
+      {
+        "media_index": 5,
+        "file": "media/7319853866995433990/5.webp",
+        "sha256": "2a1094536549b9d3dbda03099bf03809e5be3feed93ef7f6d5623d429825b10e",
+        "status": "candidate",
+        "reason": "竖向黑白照片条+大人物与家人纸片",
+        "features": {
+          "slots": "central 4 frame vertical film plus large corner portraits",
+          "hierarchy": "central friends strip",
+          "crop": "photo booth film and silhouette",
+          "overlap": "family cutouts overlap corners",
+          "decoration": "yellow ticket green handwritten goodbye title"
+        }
+      },
+      {
+        "media_index": 6,
+        "file": "media/7319853866995433990/6.webp",
+        "sha256": "4e76f3952021c5e8490a3f1fbacf13e8eacdefa860856a7069d52ce192b43043",
+        "status": "candidate",
+        "reason": "诗歌纸条与拍立得簇的双页日记",
+        "features": {
+          "slots": "middle 6 instant photos flanked by poem note and cat",
+          "hierarchy": "central tilted portrait cluster",
+          "crop": "instant borders and long paper slip",
+          "overlap": "small portraits overlapped as loose stack",
+          "decoration": "red lips rabbit doodles handwritten THIS IS MY LIFE"
+        }
+      }
+    ]
+  },
+  {
+    "id": "6960d6a300000000220218b6",
+    "platform": "小红书",
+    "title": "当我用欧阳娜娜的歌词海报拼贴生活照",
+    "author": "小鹿逃逃",
+    "url": "https://www.xiaohongshu.com/explore/6960d6a300000000220218b6",
+    "date": "2026-01-09",
+    "region": "中国",
+    "region_evidence": "作者评论IP陕西",
+    "body": "用歌词海报拼贴生活照；作者评论：你把自己扣进去就行",
+    "likes": 829,
+    "saves": 296,
+    "resource_category": "collage",
+    "seen": true,
+    "checked_at": "2026-10-28T09:29:37.867Z",
+    "total_media": 4,
+    "reviewed_count": 4,
+    "full_post_review_complete": true,
+    "decisions": [
+      {
+        "media_index": 1,
+        "file": "media/6960d6a300000000220218b6/1.webp",
+        "sha256": "7ef55ccedd62c186faaf25ce6b20247bcda9eed94e41a67fee88ed86ca5f5253",
+        "status": "candidate",
+        "reason": "中心全身人物抠图与环绕歌词手写",
+        "features": {
+          "slots": "single central person silhouette with 12 notes",
+          "hierarchy": "center standing woman",
+          "crop": "full body contour",
+          "overlap": "notes encircle person",
+          "decoration": "paper fabric tape stickers handwritten lyric collage"
+        }
+      },
+      {
+        "media_index": 2,
+        "file": "media/6960d6a300000000220218b6/2.webp",
+        "sha256": "684a18ef743839c799c4c0b6da0048538b5a3de5364cee20434a19e2da81886f",
+        "status": "candidate",
+        "reason": "白底四照片错位与斜置拍立得、生日卡",
+        "features": {
+          "slots": "3 rectangular panels plus large tilted instant",
+          "hierarchy": "lower right portrait dominant",
+          "crop": "instant frame and plain rectangles",
+          "overlap": "instant overlaps top right landscape",
+          "decoration": "birthday cake card flowers mini dots washi"
+        }
+      },
+      {
+        "media_index": 3,
+        "file": "media/6960d6a300000000220218b6/3.webp",
+        "sha256": "5f9f823616be9ce1412f9bce4d26eb91e652ee5bd5c242e395a98e984b5363e0",
+        "status": "candidate",
+        "reason": "蓝天星纹底四照片与手绘面孔图标",
+        "features": {
+          "slots": "4 unequal photo panels in vertical zigzag",
+          "hierarchy": "upper large portrait",
+          "crop": "rectangles",
+          "overlap": "small selfie across middle seam",
+          "decoration": "allover white star pattern colored doodle cards"
+        }
+      },
+      {
+        "media_index": 4,
+        "file": "media/6960d6a300000000220218b6/4.webp",
+        "sha256": "5b3e86a5e2ca62b3a2dd0473788191e5b30bea7979521acd97ecf90ed2fd5a1c",
+        "status": "candidate",
+        "reason": "果盘实拍背景与四个人像错格、手绘图案",
+        "features": {
+          "slots": "4 small people photos over fruit bowl base",
+          "hierarchy": "large fruit background",
+          "crop": "rectangles without borders",
+          "overlap": "scattered portraits across bowl",
+          "decoration": "white bubble water handwriting line art fruit glass"
+        }
+      }
+    ]
+  }
+]

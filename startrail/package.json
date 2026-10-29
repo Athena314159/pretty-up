@@ -1,0 +1,19 @@
+{
+  "name": "startrail",
+  "version": "4.1.0",
+  "private": true,
+  "type": "module",
+  "description": "星迹 4.1：默认调用模型的研究工具，可改纯规则，并带分类资源库",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning src/server/index.js",
+    "mcp": "node --disable-warning=ExperimentalWarning src/mcp/server.js",
+    "test": "TZ=UTC node --disable-warning=ExperimentalWarning --test test/*.test.mjs",
+    "eval": "TZ=UTC node --disable-warning=ExperimentalWarning eval/run.mjs",
+    "searxng": "bash scripts/start-searxng.sh",
+    "login:xhs": "node scripts/login-browser.mjs xiaohongshu",
+    "login:douyin": "node scripts/login-browser.mjs douyin"
+  }
+}

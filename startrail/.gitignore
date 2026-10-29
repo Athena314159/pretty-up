@@ -1,0 +1,20 @@
+node_modules/
+data/
+startrail.local.json
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+eval/last-report.json
+.DS_Store
+playwright-report/
+test-results/
+
+# 大图媒体不入库。台账 json / json.gz 与图册元数据仍提交。
+library/**/*.webp
+library/**/*.jpg
+library/**/*.jpeg
+library/**/*.png
+library/**/*.gif
+library/**/*.mp4
+library/**/*.mov
