@@ -23,3 +23,5 @@ JSON协议：`schema_version:1`；数组tasks、sources、searches、observation
 ## 修订与撤回（3.2.0）
 全局来源真实性核验更新用 verification_updated_at（ISO含时区）；较新的核验可把verified撤回lead/unavailable，旧导入不得恢复旧状态。同一来源在不同任务的适用性用task_reviews，以task_id为键，值含decision(accepted/rejected/needs_review)、reason、updated_at；任务排除不更改全局真实性。最新用户纠偏先更新该任务判定，再复用来源。
 纠偏后的任务及results必须带updated_at；旧任务包不得覆盖较新的任务要求。没有时间或适用性记录的旧资料保留作待核验，不推造新核验时间。
+
+工作模式资源采集另须遵循[分类、去重与回存规则](work-resource-policy.md)。

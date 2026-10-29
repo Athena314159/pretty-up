@@ -1,0 +1,58 @@
+{
+  "version": "3.2.1",
+  "date": "2026-10-28",
+  "release_scope": "3.2.1 synced to GitHub directory 星迹热点搜索 on 2026-10-29; library image media not committed; globally installed skill unchanged",
+  "github_sync": {
+    "date": "2026-10-29",
+    "github_updated": true,
+    "media_committed": false,
+    "note": "大图媒体未入库，换设备需另行携带 library/media。无自动云同步。"
+  },
+  "functional_checks": {
+    "regression_mjs": "passed 6 groups",
+    "legacy_regression_mjs": "passed",
+    "resources_regression_mjs": "passed",
+    "library_regression_py": "passed 4 tests via workspace temp-directory compatibility wrapper",
+    "memory_regression_py": "passed via workspace temp-directory compatibility wrapper"
+  },
+  "skill": {
+    "method": "simple frontmatter and referenced-file fallback validation",
+    "official_validator": "not run successfully: PyYAML unavailable",
+    "name": true,
+    "description": true,
+    "version": true,
+    "missing_references": []
+  },
+  "resource_audit": {
+    "ok": true,
+    "errors": [],
+    "case_count": 50,
+    "post_count": 14,
+    "historical_source_count": 716,
+    "historical_reference_images_reviewed": 200,
+    "limitations": [
+      "历史部分候选缺少原图，只能以来源ID、标题与已有摘要核对；不能保证识别所有未留图的跨作者同款。",
+      "旧作品标为常青参考；未知日期、地区不推断。",
+      "10例中文平台、40例Lemon8；泰语市场来自内容语言证据，不代表作者国籍。",
+      "部分LIVE来源仅核验静态图册预览。"
+    ]
+  },
+  "images": {
+    "references": 50,
+    "all_decodable": true
+  },
+  "ui": {
+    "version": "3.2.1",
+    "collage_sources": 796,
+    "collage_accepted_cases": 50,
+    "makeup_sources": 0,
+    "filter_xhs": 10,
+    "filter_china": 8,
+    "filter_reset": 50,
+    "screenshot_files": [
+      "图册运行截图.jpg",
+      "资源库运行截图.jpg"
+    ]
+  },
+  "sync": "explicit import/export or complete library folder transfer; no automatic cloud sync"
+}
