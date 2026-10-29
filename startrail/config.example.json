@@ -1,0 +1,21 @@
+{
+  "primary": {
+    "baseURL": "https://api.deepseek.com",
+    "model": "deepseek-chat",
+    "apiKey": ""
+  },
+  "backup": {
+    "baseURL": "",
+    "model": "",
+    "apiKey": ""
+  },
+  "searxngURL": "http://127.0.0.1:8088",
+  "mailto": "",
+  "paid": {
+    "baseURL": "",
+    "apiKey": "",
+    "unitUsd": 0.01
+  },
+  "feishuWebhook": "",
+  "rssFeeds": []
+}

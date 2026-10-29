@@ -1,0 +1,5 @@
+interface:
+  display_name: "星迹 · 热点搜索"
+  short_description: "面向工作与学习，按需搜索近期上升趋势与历史热点，复用可追溯研究记忆。"
+  brand_color: "#DCD6BF"
+  default_prompt: "使用 $startrail-search 研究我的主题，优先近三个月有证据的上升趋势，结合历史热点，先查记忆再补搜。"

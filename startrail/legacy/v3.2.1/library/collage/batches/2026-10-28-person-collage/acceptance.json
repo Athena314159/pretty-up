@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "errors": [],
+  "case_count": 50,
+  "post_count": 14,
+  "historical_source_count": 716,
+  "historical_reference_images_reviewed": 200,
+  "limitations": [
+    "历史部分候选缺少原图，只能以来源ID、标题与已有摘要核对；不能保证识别所有未留图的跨作者同款。",
+    "旧作品标为常青参考；未知日期、地区不推断。",
+    "10例中文平台、40例Lemon8；泰语市场来自内容语言证据，不代表作者国籍。",
+    "部分LIVE来源仅核验静态图册预览。"
+  ]
+}
